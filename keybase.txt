@@ -1,0 +1,72 @@
+
+==================================================================
+https://keybase.io/antoinecomte
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://antoinecomte.net
+  * I am antoinecomte (https://keybase.io/antoinecomte) on keybase.
+  * I have a public key with fingerprint E554 21E3 7989 EB98 D7A9  B731 974B 1C59 0249 EB69
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.8.25"
+        },
+        "key": {
+            "eldest_kid": "01018cf7c27024955cc8b6ec1730e3a402b18a04acfd35cc8ef5ef0af47e5b0c31d50a",
+            "fingerprint": "e55421e37989eb98d7a9b731974b1c590249eb69",
+            "host": "keybase.io",
+            "key_id": "974b1c590249eb69",
+            "kid": "01018cf7c27024955cc8b6ec1730e3a402b18a04acfd35cc8ef5ef0af47e5b0c31d50a",
+            "uid": "98a9a46b20464de215c393a8752fe700",
+            "username": "antoinecomte"
+        },
+        "service": {
+            "hostname": "antoinecomte.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1460804710,
+    "expire_in": 157680000,
+    "prev": "8949e66593c1453a1f6f43606b2bad3093651ed556b4c00def298fff6a37be50",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owGtkn1oTWEcx++1YRZiKMslHewPbbfnOec85+WaQlGYvI15y/Wc5/zOvce2c657
+jrFmXou8pvmH3KJRRlFMQg3JvMz+kSzFWM1LJitTWt7PwxTlT89fT/0+v+/v+/09
+z8EhWaHccMv8zUtbVmeuhe+/MUJleRGrRjBcs1qI1QiswgbH5zeHVoIQE8qh2qAe
+RG13vOOaEF3rje9jCoUqSHu26wQUimpRkQi1hZzn3VBhgufHy22TVzHCGrNUJqpI
+lHVCGNMMBRhWJQQSlZFoYI0imTLLlHgRLAIWopasAjEQk7BJEA0GWraTgHQqbXOL
+AhAiixgkVdd0MHTNVKluqBLWVdnAjOh8FhiKHjQmXc//K4zw02n8p71/8P/Z9/pf
+czSqU1kxRCQrsgkiJkzSJaqpRLRARYiDHqT7Fk8d37UdYG6lD3yxQaXKZsCXy9P8
+g4o6wF8llXZ9l7kVQTXp+6kYb/arU5zeAEa8Tydu2I5pO8cTf74jDlDm21wZywrS
+kKxiVCjAxpSdhrjNCaIqGgoOnwNVgaamB1tTFKJLDMtEothSLFlSUJDToKaEdEkh
+GExCFENmCJlgibpmWZZCJdUAwlN7sM5xA20cGKWJQNOzEw7116eD4LvDkexQODc0
+oH8//lNDuYOG/f6+2bGB36Z2Dvw6q7tkzIxmtFfojoULLjfO7PTiu2mpkjm36fOW
+kitTppc9jRfXLfucn4osrnzR1nDv+oL8o1O6D99RtaKOiXVLelHTxuxcu2rVgZM3
+Jn87MWES2zRUO58setWYKFtZnLV25Kf8+w+GR05V5p/6eCxv/ojRtQc77ratOb18
+R2TPuGOf6ldfLFt8oqX+wITw1qVdPfvmZORb03qfFPjvmjKLBl1YmPP+uuq/fJYs
+zXk7/VFR1qVdc8XZK87sHxtpv1qf0z7kw+vvwqEvN9Nu08K9HaUfSxoyjbO2Nazc
+3DrvNtTVKgVnH7c2Tzyy8+3goV8Pny8uyNvfPOq53tNV/LAGm9uTU38A
+=E5yb
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/antoinecomte
+
+==================================================================
